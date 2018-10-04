@@ -1,0 +1,68 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#world .header{
+  text-align: center;
+}
+
+#world .profiles{
+  padding: 20px;
+}
+#world .profiles .text-content{
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    width: 300px;
+    padding: 20px;
+    color: #daffdf;
+    font-size: 23px;
+    transition: 0.4s;
+    font-weight: bolder;
+}
+.carousel-content h2{
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  color: #fff;
+  font-family:cursive;
+  font-size: 50px;
+}
+.welcome{
+  padding: 40px;
+  text-align: center;
+}
+.welcome .header h2{
+    font-size: 48px;
+    font-weight: 300;
+}
+.welcome .header p{
+  font-size: 18px;
+    line-height: 1.67;
+    color: #222;
+}
+.about .row{
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.about .btn-success{
+  border-radius: 20px;
+}
+.services .modal-body{
+  text-align: left;
+}
+.services .modal-body .servicePlan{
+  font-size: 17px;
+}
+.Services .row{
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.Services{
+  background-color: #ababab33;
+  padding: 20px;
+}
+.Services .header p{
+  font-size: 17px;
+}
