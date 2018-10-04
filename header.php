@@ -53,7 +53,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Dvents <br>Making Events Simpler </a>
+          <a class="navbar-brand" href="index.php"><h1>Dvents </h1>
+          <p> Making Events Simpler</p> </a>
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
           <ul class="nav navbar-nav navbar-right">

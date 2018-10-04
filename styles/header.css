@@ -7,6 +7,9 @@
     margin-left: 0px!important;
     padding: 11px 1px;
 }
+.tool_box1{
+  margin-top: 15px;
+}
 .top_div .tool_box2 ul{
   list-style-type: none;
   float: right;
@@ -16,10 +19,29 @@
   display: inline-block;
   margin-right: 20px;
 }
+.eventImage img{
+  vertical-align: middle;
+  border-radius: 10px;
+  transition: .5s;
+}
+.eventImage img:hover{
+  transform: scale(1.1,1.1);
+}
+.eventImage h4{  
+  font-size: 25px;
+  margin: 30px;
+}
+
+.headTitle{  
+  font-size: 30px;
+  font-weight: bolder;
+  padding: 35px;
+  text-transform: uppercase;
+}
 .top_div .tool_box2 ul li ul  li{
   list-style-type: none;
   display: block!important;
-  /* margin-right: 20px; */
+  margin-right: 0px;
 }
 .top_div .tool_box2 ul > li > a{
   /* color:#000; */
@@ -64,8 +86,26 @@
     background-color: #444040!important;
     color: #fff;
 }
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+  padding: 15px!important;
+}
+.navbar-brand h1{  
+  margin: 0px;
+  margin-top: -20px;
+  font-size: 50px;
+  margin-left: 20px;
+  font-weight: 900;
+}
+.navbar-brand p{  
+  margin-left: 25px;
+  font-size: 17px;
+  font-weight: 600;
+}
 .navbar-nav>li>a{
-  color:#000;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  font-weight: bold;
 }
 .navbar-nav>li>a:hover{
   /* background-color: #000; */
