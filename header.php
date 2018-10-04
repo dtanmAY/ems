@@ -25,8 +25,8 @@
                     <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Welcome, '.$_SESSION['email'].'
                     <span class="caret"></span></button>
                     <ul class="dropdown-menu">
-                      <li><a href="myevents.php">My Events</a></li>
-                        <li><a href="logout.php">logout</a></li>
+                      <li><a href="myevents.php"><i class="far fa-calendar-alt"></i> <b>MY EVENTS</b></a></li>
+                        <li><a href="logout.php"><i class="fas fa-power-off"></i> <b>LOGOUT</b></a></li>
                     </ul>
                   </div>
                 </li>';

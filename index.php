@@ -13,7 +13,6 @@ session_start();
     <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
     <link rel="stylesheet" href="styles/index.css">
     <link rel="stylesheet" href="styles/animate.css">
-
     <link rel="stylesheet" href="styles/header.css">
     <title>index_page</title>
 

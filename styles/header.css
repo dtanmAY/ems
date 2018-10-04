@@ -38,10 +38,20 @@
   padding: 35px;
   text-transform: uppercase;
 }
+.dropdown-toggle{
+  border-radius: 50px!important;
+}
+.top_div .tool_box2 ul li ul{
+width: 250px;
+
+}
 .top_div .tool_box2 ul li ul  li{
   list-style-type: none;
   display: block!important;
   margin-right: 0px;
+  font-size: 15px;
+  padding: 6px;
+
 }
 .top_div .tool_box2 ul > li > a{
   /* color:#000; */
